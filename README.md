@@ -1,2 +1,5 @@
 # test-git1
-a description to understand how git works
+
+Name: Kehinde Oderinde, 
+Cohort: 1.3
+Track: Software Engineering
